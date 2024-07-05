@@ -1,7 +1,38 @@
 <h1 align="center"> <p> 3DRN</p></h1>
 
-## Description
-Welcome to the 3DRNF Dataset Repository! This dataset is aimed at the research and development of methods to remove reflection noise from 3D point clouds.
+<h2 align="center"> A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes</h2>
 
-## 💡 Download Link
+<p align="center">
+<a href="" target="_blank">Li Fang</a><sup>a,e</sup>, 
+<a href="" target="_blank">Tianyu Li</a><sup>a</sup>,
+<a href="" target="_blank">Yanghong Lin</a><sup>b,e,*</sup>, 
+<a href="" target="_blank">Shudong Zhou</a><sup>a</sup>,
+<a href="" target="_blank">Wei Yao</a><sup>c,d</sup>,
+</p>
+
+<p align="center">
+<sup>a</sup> Quanzhou Institute of Equipment Manufacturing Haixi Institutes, Chinese Academy of Sciences&nbsp;&nbsp; <br>
+<sup>b</sup> Fujian Institute of Research on the Structure of Matter, Chinese Academy of Sciences&nbsp;&nbsp; <br>
+<sup>c</sup> School of Engineering and Design, Technical University of Munich&nbsp;&nbsp; <br>
+<sup>d</sup> GeoBIM & GeoNexus Intelligence&nbsp;&nbsp; <br>
+<sup>e</sup> University of Chinese Academy of Sciences&nbsp;&nbsp; <br>
+<sup>*</sup>Corresponding author. &nbsp;&nbsp; 
+</p>
+
+ Point clouds are vital in computer vision tasks such as 3D reconstruction, autonomous driving, and
+robotics. However, TLS-acquired point clouds often contain virtual points from reflective surfaces, causing disrup-
+tions. This study presents a reflection noise elimination algorithm for TLS point clouds. Our innovative reflection
+plane detection algorithm, based on geometry-optical models and physical properties, identifies and categorizes re-
+flection points per optical reflection theory. We’ve adapted the LSFH feature descriptor to retain reflection features,
+mitigating interference from symmetrical architectural structures. By incorporating the Hausdorff feature distance,
+the algorithm enhances resilience to ghosting and deformation, improving virtual point detection accuracy. Extensive
+experiments on the 3DRN benchmark dataset, featuring diverse urban environments with virtual TLS reflection noise,
+show our algorithm improves precision and recall rates for 3D points in reflective regions by 57.03% and 31.80%,
+respectively. Our method achieves a 9.17% better outlier detection rate and 5.65% higher accuracy than leading meth-
+ods.
+
+## Pipeline
+<img src="" alt="Method" style="zoom:50%;">
+
+## 💡 Data Description
 Coming soon.
