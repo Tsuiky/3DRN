@@ -20,16 +20,13 @@
 </p>
 
  Point clouds are vital in computer vision tasks such as 3D reconstruction, autonomous driving, and
-robotics. However, TLS-acquired point clouds often contain virtual points from reflective surfaces, causing disrup-
-tions. This study presents a reflection noise elimination algorithm for TLS point clouds. Our innovative reflection
-plane detection algorithm, based on geometry-optical models and physical properties, identifies and categorizes re-
-flection points per optical reflection theory. We’ve adapted the LSFH feature descriptor to retain reflection features,
+robotics. However, TLS-acquired point clouds often contain virtual points from reflective surfaces, causing disruptions. This study presents a reflection noise elimination algorithm for TLS point clouds. Our innovative reflection
+plane detection algorithm, based on geometry-optical models and physical properties, identifies and categorizes reflection points per optical reflection theory. We’ve adapted the LSFH feature descriptor to retain reflection features,
 mitigating interference from symmetrical architectural structures. By incorporating the Hausdorff feature distance,
 the algorithm enhances resilience to ghosting and deformation, improving virtual point detection accuracy. Extensive
 experiments on the 3DRN benchmark dataset, featuring diverse urban environments with virtual TLS reflection noise,
 show our algorithm improves precision and recall rates for 3D points in reflective regions by 57.03% and 31.80%,
-respectively. Our method achieves a 9.17% better outlier detection rate and 5.65% higher accuracy than leading meth-
-ods.
+respectively. Our method achieves a 9.17% better outlier detection rate and 5.65% higher accuracy than leading methods.
 
 ## Pipeline
 <img src="" alt="Method" style="zoom:50%;">
