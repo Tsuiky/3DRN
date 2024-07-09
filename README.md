@@ -34,5 +34,5 @@ respectively. Our method achieves a 9.17% better outlier detection rate and 5.65
 ## 💡 3DRN Dataset (Release soon)
 The first introduced 3DRN contains 12 point cloud models with more than 55 million 3D points, collected by a terrestrial laser scanner (RIEGL VZ-2000i). All point cloud models are captured from real urban scene containing highly reflective areas with significant reflection noise, half of which are from Sanlinkou Innovation Park and the other half from Quanzhou Equipment Center. Each point in the point cloud model provides its XYZ position information and ground truth of the virtual points annotated by the professional. Figure shows a completed aerial view and partial scenes obtained after registration of all scan positions captured from the Sanlinkou Innovation Park, which clearly consists of real points and reflected virtual points. The table shows detailed statistical information about the dataset. 
 
-<img src="model/detail.jpg" alt="Detail" style="zoom:50%;">
+<div align=center><img src="model/detail.jpg" alt="Detail" width="1200px" style="zoom:50%;">
 <div align=center><img src="model/Statistics.png" alt="Detail" width="500px" style="zoom:30%;">
