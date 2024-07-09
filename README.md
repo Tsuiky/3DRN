@@ -29,7 +29,7 @@ show our algorithm improves precision and recall rates for 3D points in reflecti
 respectively. Our method achieves a 9.17% better outlier detection rate and 5.65% higher accuracy than leading methods.
 
 ## Pipeline
-<img src="model/overview.pdf" alt="Method" style="zoom:50%;">
+<img src="model/overview.jpg" alt="Method" style="zoom:50%;">
 
 ## 💡 Data Description
 Coming soon.
