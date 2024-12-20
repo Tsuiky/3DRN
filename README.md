@@ -1,6 +1,6 @@
 <h1 align="center"> <p> 😄 3DRN</p></h1>
 
-<h2 align="center"> A coupled optical–radiometric modeling approach to removing reflection noise in TLS data of urban areas</h2>
+<h2 align="center"> A Coupled Optical–radiometric Modeling Approach to Removing Reflection Noise in TLS Data of Urban Areas</h2>
 
 <p align="center">
 <a href="" target="_blank">Li Fang</a><sup>a,e</sup>, 
