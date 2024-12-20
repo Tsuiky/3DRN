@@ -1,4 +1,4 @@
-<h1 align="center"> <p> 😄 3DRN</p></h1>
+<h1 align="center"> <p> 😃 3DRN</p></h1>
 
 <h2 align="center"> A Coupled Optical–radiometric Modeling Approach to Removing Reflection Noise in TLS Data of Urban Areas</h2>
 
