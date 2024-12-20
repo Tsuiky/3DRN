@@ -31,8 +31,8 @@ Download links will be sent automatically after completing the application.
 ## 💡 3DRN Dataset Detail
 The first introduced 3DRN contains 12 point cloud models with more than 55 million 3D points, collected by a terrestrial laser scanner (RIEGL VZ-2000i). All point cloud models are captured from real urban scene containing highly reflective areas with significant reflection noise, half of which are from Sanlinkou Innovation Park and the other half from Quanzhou Equipment Center. Each point in the point cloud model provides its XYZ position information and ground truth of the virtual points annotated by the professional. The zip file downloaded includes two data formats, *.txt and .npy, which are N*4 Arrays (XYZ and label, where label values ​​0 and 1 represent real point and virtual point, respectively). Figure shows a completed aerial view and partial scenes obtained after registration of all scan positions captured from the Sanlinkou Innovation Park, which clearly consists of real points and reflected virtual points. The table shows detailed statistical information about the dataset. 
 
-<div align=center><img src="model/detail.jpg" alt="Detail" width="1200px" style="zoom:50%;">
-<div align=center><img src="model/Statistics.png" alt="Detail" width="800px" style="zoom:30%;">
+<img src="model/detail.jpg" alt="Detail" width="1200px" style="zoom:50%;">
+<img src="model/Statistics.png" alt="Detail" width="800px" style="zoom:30%;">
 
 ## ☺ Citation
 Please consider citing the following papers if you find the following papers benefit your work:
