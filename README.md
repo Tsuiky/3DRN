@@ -24,7 +24,7 @@ Point clouds, which are a fundamental type of 3D data, play an essential role in
 ## 📌 Download Link
 Please fill out this [**Data Request Form**](https://docs.google.com/forms/d/e/1FAIpQLSduYzDwNKti16dy4Xp9KJV6fii8fMJi3HiXg-jp6pjXDTdFGA/viewform?usp=header) if you have access to google forms. Download links will be sent to the email you filled in automatically after completing the application.
 
-If you don't have access to google forms, please fill out this [**one**](https://wj.qq.com/s2/17172650/cf3f/) (alternative link for Chinese users). Download link will pop up automatically after completion.
+If you don't have access to google forms, please fill out this [**form**](https://wj.qq.com/s2/17172650/cf3f/) (alternative link for Chinese users). Download link will pop up automatically after completion.
 
 ## Pipeline
 <img src="model/overview .jpg" alt="Method" style="zoom:50%;">
