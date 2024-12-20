@@ -60,5 +60,5 @@ keywords = {TLS point clouds, Reflective surface detection, Reflection noise, Vi
 }
 ```
 
-## ✉ Citation
+## 📧 Contact
 If you have any questions about the project, please feel free to contact us at linyanghong21@mails.ucas.ac.cn
