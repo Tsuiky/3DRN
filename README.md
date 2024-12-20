@@ -1,6 +1,6 @@
 <h1 align="center"> <p> 3DRN</p></h1>
 
-<h2 align="center"> A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes</h2>
+<h2 align="center"> A coupled optical–radiometric modeling approach to removing reflection noise in TLS data of urban areas</h2>
 
 <p align="center">
 <a href="" target="_blank">Li Fang</a><sup>a,e</sup>, 
@@ -34,7 +34,7 @@ The first introduced 3DRN contains 12 point cloud models with more than 55 milli
 <div align=center><img src="model/detail.jpg" alt="Detail" width="1200px" style="zoom:50%;">
 <div align=center><img src="model/Statistics.png" alt="Detail" width="800px" style="zoom:30%;">
 
-## 💡 Citation
+## ☺ Citation
 Please consider citing the following papers if you find the following papers benefit your work:
 
 ```
@@ -59,3 +59,6 @@ keywords = {TLS point clouds, Reflective surface detection, Reflection noise, Vi
   publisher={IEEE}
 }
 ```
+
+## ✉ Citation
+If you have any questions about the project, please feel free to contact us at linyanghong21@mails.ucas.ac.cn
