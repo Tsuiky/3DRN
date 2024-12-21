@@ -26,7 +26,7 @@ Please fill out this [**Data Request Form**](https://docs.google.com/forms/d/e/1
 
 If you don't have access to google forms, please fill out this [**form**](https://wj.qq.com/s2/17172650/cf3f/) (alternative link for Chinese users). Download link will pop up automatically after completion.
 
-## Pipeline
+## ♻️ Pipeline
 <img src="model/overview .jpg" alt="Method" style="zoom:50%;">
 
 ## 💡 3DRN Dataset Detail
