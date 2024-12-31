@@ -52,13 +52,16 @@ author = {Li Fang and Tianyu Li and Yanghong Lin and Shudong Zhou and Wei Yao},
 keywords = {TLS point clouds, Reflective surface detection, Reflection noise, Virtual point, Optical reflection model}
 }
 
-@article{fang2024robust,
-  title={Robust Multiview Point Cloud Registration using Algebraic Connectivity and Spatial Compatibility},
+@ARTICLE{10793391,
   author={Fang, Li and Li, Tianyu and Zhou, Shudong and Lin, Yanghong},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  year={2024},
-  publisher={IEEE}
-}
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Robust Multiview Point Cloud Registration Using Algebraic Connectivity and Spatial Compatibility}, 
+  year={2025},
+  volume={63},
+  number={},
+  pages={1-14},
+  keywords={Point cloud compression;Feature extraction;Matrix decomposition;Sparse matrices;Training;Optimization;Manufacturing;Geoscience and remote sensing;Accuracy;Vectors;Algebraic connectivity;historical weighted average (HWA);iteratively reweighted least square (IRLS);multiview registration;spectral decomposition (SD)},
+  doi={10.1109/TGRS.2024.3515203}}
 ```
 
 ## 📧 Contact
